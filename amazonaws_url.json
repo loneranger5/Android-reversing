@@ -1,0 +1,4 @@
+{
+	"flags": "-HanrE",
+	"pattern": "s3\\.amazonaws.com[/]+|[a-zA-Z0-9_-]*\\.s3\\.amazonaws.com"
+}

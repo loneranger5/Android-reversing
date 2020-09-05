@@ -1,0 +1,4 @@
+{
+	"flags": "-HanrE",
+	"pattern": "-----BEGIN RSA PRIVATE KEY-----[a-zA-Z0-9\\S]{100,}-----END RSA PRIVATE KEY-----"
+}

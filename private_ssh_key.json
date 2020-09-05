@@ -1,0 +1,4 @@
+{
+	"flags": "-HanrE",
+	"pattern": "-----BEGIN PRIVATE KEY-----[a-zA-Z0-9\\S]{100,}-----END PRIVATE KEY-----"
+}
